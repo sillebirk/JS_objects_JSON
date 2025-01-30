@@ -1,0 +1,15 @@
+{
+  "navn": {
+    "fornavn": "Sille",
+    "efternavn": "Birk Lassen"
+  },
+  "alder": 23,
+  "studerende": true,
+  "interesser": ["Design", "Rejse", "Madlavning"],
+  "adresse": {
+    "vej": "Munkensvej 12",
+    "by": "Frederiksberg",
+    "postnummer": 2000
+  },
+  "fødselsdato": "2001-05-07"
+}
