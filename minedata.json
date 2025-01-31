@@ -13,3 +13,39 @@
   },
   "fødselsdato": "2001-05-07"
 }
+
+{
+    "personer": {
+        "navn": {
+            "fornavn": "Lucas",
+            "efternavn": "Jakobsen"
+        },
+        "alder": 23,
+        "studerende": true,
+        "interesser": ["Male", "Rejse", "Design"],
+        "adresse": {
+            "vej": "Vognporten 14 ",
+            "by": "Albertslund",
+            "postnummer": 2620
+        },
+        "fødselsdato": "2002-09-11"
+    },
+  }
+
+  {
+    "personer": {
+        "navn": {
+            "fornavn": "Mikkel",
+            "efternavn": "Jørgensen"
+        },
+        "alder": 34,
+        "studerende": true,
+        "interesser": ["Kodning", "Musik", "Netværk"],
+        "adresse": {
+            "vej": "Kaj Munks Vej 8, 3. tv",
+            "by": "Albertslund",
+            "postnummer": 2300
+        },
+        "fødselsdato": "1990-04-27"
+    },
+  }
